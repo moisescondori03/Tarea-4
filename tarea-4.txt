@@ -1,0 +1,31 @@
+En ésta tarea se modificará la tabla de “Horarios de atención”
+
+Crearemos un archivo llamado style con la extensión css donde se plasmarán las
+propiedades del css.
+
+Luego, se le asignan clases a las etiquetas HTML que necesitemos.
+
+A los días se le asignará la etiqueta html para que queden en negrita, y a los horarios se le
+asignará la etiqueta para que queden en cursiva.
+Una vez realizado, a los días se le definirá un color y un tamaño de letra mayor que al de los
+horarios, mientras que a los horarios solo se le dará el color correspondiente al día.
+
+Te recomendamos usar los // comentarios, ya que a medida que se vaya agregando más contenido
+al archivo css será más prolijo y ordenado.
+
+/* HEADER */
+.header {
+
+color: blue;
+
+}
+
+/* FOOTER */
+.footer {
+
+color: red;
+
+}
+
+¡Tené en cuenta que tanto al HTML como al CSS podés agregar contenido y estilos
+como lo sientas a gusto!

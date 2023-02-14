@@ -1,0 +1,40 @@
+/*
+Crearemos un archivo llamado style con la extensión css donde se plasmarán las
+propiedades del css.
+
+Luego, se le asignan clases a las etiquetas HTML que necesitemos.
+
+A los días se le asignará la etiqueta html para que queden en negrita, y a los horarios se le
+asignará la etiqueta para que queden en cursiva.
+Una vez realizado, a los días se le definirá un color y un tamaño de letra mayor que al de los
+horarios, mientras que a los horarios solo se le dará el color correspondiente al día.
+*/
+
+/*=================================
+    ESTILOS: HORARIOS
+==================================*/
+.lunes,.h-lunes{
+    color: blue;
+}
+.martes,.h-martes{
+    color: blueviolet;
+}
+.miercoles,.h-miercoles{
+    color: aqua;
+}
+.jueves,.h-jueves{
+    color: brown;
+}
+.viernes,.h-viernes{
+    color: chartreuse;
+}
+.sabado,.h-sabado{
+    color: coral;
+}
+.domingo,.h-domingo{
+    color: crimson;
+}
+
+.lunes,.martes,.miercoles,.jueves,.viernes,.sabado,.domingo{
+    font-size: 1.5em;
+}
